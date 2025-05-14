@@ -44,7 +44,7 @@ export default function SupportSection() {
             <div className="container">
                 <h2 className="text-center fw-bold mb-2">Support</h2>
                 <p className="text-center text-muted mb-5">
-                    Have any questions? We'd love to hear from you
+                    Have any questions? We&apos;d love to hear from you
                 </p>
 
                 <div className="row g-4">
